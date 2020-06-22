@@ -7,7 +7,7 @@ What problem does your app solve?
 
 How does your app solve the problem?
 
-- Clients will log in and have their membership authenticated, then select classes based on certain criteria (type, duration, intensity level) to attend. Trainers will log in and have their authorizaiton validated, then add and delete said classes.
+- Clients will log in and have their membership authenticated, then select classes based on certain criteria (type, duration, intensity level) to attend. Trainers will log in and have their authorization validated, then add and delete said classes.
 
 What is the mission statement?
 
